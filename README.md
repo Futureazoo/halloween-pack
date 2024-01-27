@@ -1,6 +1,6 @@
 # ![img](https://i.imgur.com/gJ5XcAj.png)
 
-# Halloween Pack
+# Default-Style Halloween Pack
 [Curseforge Link](https://www.curseforge.com/minecraft/texture-packs/default-style-halloween-pack)
 
 [Modrinth Link](https://modrinth.com/resourcepack/default-style-halloween-pack)
